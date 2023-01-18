@@ -1,4 +1,8 @@
 {
-  "response": null,
-  "error": null
+  "response": {
+    "string": ["ok"]
+  },
+  "error": {
+    "string": ["ok"]
+  }
 }
